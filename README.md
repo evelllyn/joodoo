@@ -1,6 +1,7 @@
-# Joodoo 專案
+# 專案練習 - Joodoo
 
 Joodoo 是一個以 **Vite + Vue 3** 搭配 **Strapi** 打造的互動式社群貼文平台，主要用於展示前後端整合能力與完整 CRUD 互動流程。
+這是一個個人練習專案，主要練習前後端整合、登入系統、貼文 CRUD，以及前端路由管理。
 
 使用者可以在平台上：
 
@@ -11,6 +12,18 @@ Joodoo 是一個以 **Vite + Vue 3** 搭配 **Strapi** 打造的互動式社群�
 - 搜尋貼文內容
 - 編輯個人資料
 - 查看「我的貼文 / 我按讚的 / 我收藏的」
+
+---
+
+## 使用技術
+
+### Frontend
+- Vite + Vue 3
+- Pinia / Vuex
+- Bootstrap
+
+### Backend
+- Strapi v4
 
 ---
 
@@ -67,18 +80,3 @@ Joodoo 是一個以 **Vite + Vue 3** 搭配 **Strapi** 打造的互動式社群�
 
 ## 編輯個人資料
 <img alt="編輯個人資料頁" src="https://github.com/user-attachments/assets/88d54645-6103-4ae2-ab3b-42667f124d93" width="100%" />
-
----
-
-## 使用技術
-
-### Frontend
-- Vite + Vue 3
-- Pinia / Vuex
-- Bootstrap
-
-### Backend
-- Strapi v4
-
-### 部署
-- GitHub Pages
