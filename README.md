@@ -53,15 +53,12 @@ Joodoo 是一個以 **Vite + Vue 3** 搭配 **Strapi** 打造的互動式社群�
 <div style="display: flex; gap: 20px; margin-top: 20px;">
   <h4>可查看「我的貼文 / 我按讚的 / 我收藏的」三種類型貼文</h4>
   <div style="flex: 1;">
-    <h4>我的貼文</h4>
     <img src="https://github.com/user-attachments/assets/ca964f27-b882-478e-84f9-680c05d40720" width="100%">
   </div>
   <div style="flex: 1;">
-    <h4>我按讚的</h4>
     <img src="https://github.com/user-attachments/assets/3793f840-ba0b-4207-8bb7-7ead252ddec8" width="100%">
   </div>
   <div style="flex: 1;">
-    <h4>我收藏的</h4>
     <img src="https://github.com/user-attachments/assets/33775b7d-643b-4ff8-b85c-995a79a94ad8" width="100%">
   </div>
 </div>
