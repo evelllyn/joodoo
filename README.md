@@ -7,8 +7,8 @@ Joodoo 是一個以 Vue + Strapi 建立的 XXX（寫你的專案目的）。
 
 ### 登入註冊頁
 <div style="display: flex; gap: 10px;">
-  <img alt="登入頁" src="https://github.com/user-attachments/assets/3127aa95-21f0-4cb9-a66a-2df6f933ab0e" width="49%">
-  <img alt="註冊頁" src="https://github.com/user-attachments/assets/5d49ac5d-1ce4-4bd1-a283-3f01359fc49a" width="49%">
+  <img alt="登入頁" src="https://github.com/user-attachments/assets/d8c62e4a-e0ba-4b6a-bf24-08efc759f38e" width="49%">
+  <img alt="註冊頁" src="https://github.com/user-attachments/assets/3390077d-91a6-4338-86e6-46042cd09f86" width="49%">
 </div>
 
 ### 首頁
