@@ -27,14 +27,20 @@ Joodoo 是一個以 Vue + Strapi 建立的 XXX（寫你的專案目的）。
 <img width="1920" height="1026" alt="搜尋頁" src="https://github.com/user-attachments/assets/afb497c7-a9b6-40e0-b1f6-8adee97c9634" />
 
 ### 個人資料頁
-### 我的貼文
-<img width="1578" height="1688" alt="我的貼文" src="https://github.com/user-attachments/assets/ca964f27-b882-478e-84f9-680c05d40720" />
-
-### 我按讚的
-<img width="1582" height="784" alt="我的按讚頁" src="https://github.com/user-attachments/assets/3793f840-ba0b-4207-8bb7-7ead252ddec8" />
-
-### 我收藏的
-<img width="1583" height="762" alt="我的收藏頁" src="https://github.com/user-attachments/assets/33775b7d-643b-4ff8-b85c-995a79a94ad8" />
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h4>我的貼文</h4>
+    <img src="https://github.com/user-attachments/assets/ca964f27-b882-478e-84f9-680c05d40720" width="100%">
+  </div>
+  <div style="flex: 1;">
+    <h4>我按讚的</h4>
+    <img src="https://github.com/user-attachments/assets/3793f840-ba0b-4207-8bb7-7ead252ddec8" width="100%">
+  </div>
+  <div style="flex: 1;">
+    <h4>我收藏的</h4>
+    <img src="https://github.com/user-attachments/assets/33775b7d-643b-4ff8-b85c-995a79a94ad8" width="100%">
+  </div>
+</div>
 
 ### 編輯個人資料頁
 <img width="1596" height="1229" alt="編輯個人資料頁" src="https://github.com/user-attachments/assets/88d54645-6103-4ae2-ab3b-42667f124d93" />
