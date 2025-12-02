@@ -1,33 +1,56 @@
 # Joodoo 專案
 
-## 專案介紹
-Joodoo 是一個以 Vue + Strapi 建立的 XXX（寫你的專案目的）。
+Joodoo 是一個以 **Vite + Vue 3** 搭配 **Strapi** 打造的互動式社群貼文平台，主要用於展示前後端整合能力與完整 CRUD 互動流程。
+
+使用者可以在平台上：
+
+- 註冊帳號並登入
+- 發布日常貼文
+- 查看所有人的貼文
+- 點讚、收藏、留言互動
+- 搜尋貼文內容
+- 編輯個人資料
+- 查看「我的貼文 / 我按讚的 / 我收藏的」
 
 ---
 
-### 登入註冊頁
+## 登入 / 註冊頁
+
 <div style="display: flex; gap: 10px;">
   <img alt="登入頁" src="https://github.com/user-attachments/assets/d8c62e4a-e0ba-4b6a-bf24-08efc759f38e" width="49%">
   <img alt="註冊頁" src="https://github.com/user-attachments/assets/3390077d-91a6-4338-86e6-46042cd09f86" width="49%">
 </div>
 
-### 首頁
-<img width="1588" height="1859" alt="首頁" src="https://github.com/user-attachments/assets/5b507e29-e62d-44c1-934a-e80d53e600bf" />
+---
 
-### 發布貼文
-<img width="1920" height="1023" alt="發布貼文" src="https://github.com/user-attachments/assets/31c0ee8e-646b-49d7-863a-31cca0e54a29" />
+## 首頁
+<img alt="首頁" src="https://github.com/user-attachments/assets/5b507e29-e62d-44c1-934a-e80d53e600bf" width="100%" />
 
-### 按讚收藏
-<img width="1920" height="1026" alt="按讚收藏" src="https://github.com/user-attachments/assets/44dfe23d-0a9c-4083-8abe-18fb97f39792" />
+---
 
-### 留言
-<img width="1920" height="1026" alt="留言區" src="https://github.com/user-attachments/assets/2814eaff-9814-427f-b9af-f0cf17ddb2b3" />
+## 發布貼文
+<img alt="發布貼文" src="https://github.com/user-attachments/assets/31c0ee8e-646b-49d7-863a-31cca0e54a29" width="100%" />
 
-### 搜尋貼文
-<img width="1920" height="1026" alt="搜尋頁" src="https://github.com/user-attachments/assets/afb497c7-a9b6-40e0-b1f6-8adee97c9634" />
+---
 
-### 個人資料頁
-<div style="display: flex; gap: 20px;">
+## 按讚與收藏
+<img alt="按讚收藏" src="https://github.com/user-attachments/assets/44dfe23d-0a9c-4083-8abe-18fb97f39792" width="100%" />
+
+---
+
+## 留言互動
+<img alt="留言區" src="https://github.com/user-attachments/assets/2814eaff-9814-427f-b9af-f0cf17ddb2b3" width="100%" />
+
+---
+
+## 搜尋貼文
+<img alt="搜尋頁" src="https://github.com/user-attachments/assets/afb497c7-a9b6-40e0-b1f6-8adee97c9634" width="100%" />
+
+---
+
+## 👤 個人資料頁
+
+<div style="display: flex; gap: 20px; margin-top: 20px;">
   <div style="flex: 1;">
     <h4>我的貼文</h4>
     <img src="https://github.com/user-attachments/assets/ca964f27-b882-478e-84f9-680c05d40720" width="100%">
@@ -42,20 +65,22 @@ Joodoo 是一個以 Vue + Strapi 建立的 XXX（寫你的專案目的）。
   </div>
 </div>
 
-### 編輯個人資料頁
-<img width="1596" height="1229" alt="編輯個人資料頁" src="https://github.com/user-attachments/assets/88d54645-6103-4ae2-ab3b-42667f124d93" />
+---
+
+## 編輯個人資料
+<img alt="編輯個人資料頁" src="https://github.com/user-attachments/assets/88d54645-6103-4ae2-ab3b-42667f124d93" width="100%" />
 
 ---
 
 ## 使用技術
-- Frontend：Vite + Vue 3 + Pinia / Vuex + Bootstrap
-- Backend：Strapi v4
-- 部署：GitHub Pages
 
----
+### Frontend
+- Vite + Vue 3
+- Pinia / Vuex
+- Bootstrap
 
-## 功能特色
-- 使用者註冊 / 登入
-- 貼文 CRUD
-- 點讚、留言
-- 個人資料編輯
+### Backend
+- Strapi v4
+
+### 部署
+- GitHub Pages
