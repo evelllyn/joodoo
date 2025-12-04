@@ -26,7 +26,8 @@ Joodoo 是一個個人練習專案，以 **Vite + Vue 3** 搭配 **Strapi** 打�
 
 ### Frontend
 - Vite + Vue 3
-- Pinia / Vuex
+- Vue Router
+- Vuex
 - Bootstrap
 
 ### Backend
